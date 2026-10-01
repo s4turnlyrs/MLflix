@@ -2,17 +2,17 @@
 
 export const filmes = [
     {
-        id: "interestelar",
-        titulo: "Interestelar",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
-        trailer: "i6avfCqKcQo?si=c67bqEGle7cgphln",
+        id: "Halloween",
+        titulo: "Halloween",
+        imagem: "Imagens/halloween.jpg",
+        descricao: "Na noite de Halloween, Michael Myers, um homem que foi internado após cometer um crime ainda na infância, escapa de uma instituição psiquiátrica e retorna à sua cidade natal. Lá, ele passa a perseguir a jovem Laurie Strode e seus amigos, enquanto o psiquiatra Dr. Loomis tenta encontrá-lo antes que seja tarde demais.",
+        trailer: "ek1ePFp-nBI?si=qkTvkQEHqCf5lybp",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 20 min",
-        genero: "Ficção científica",
-        classificacao: "+10 anos",
+        duracao: "1h 31 min",
+        genero: "Terror, suspense e slasher",
+        classificacao: "+16 anos",
     },
 
     {
