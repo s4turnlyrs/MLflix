@@ -16,17 +16,17 @@ export const filmes = [
     },
 
     {
-        id: "Batman",
-        titulo: "Batman",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Em Batman: O Cavaleiro das Trevas, a paz é ameaçada pelo Coringa, um anarquista que instaura o caos.",
-        trailer: "ID_YOUTUBE",
+        id: "O Exorcista",
+        titulo: "O Exorcista",
+        imagem: "Imagens/oexorcista.jpg",
+        descricao: "Uma mãe procura a ajuda de dois padres após perceber que sua filha está apresentando comportamentos inexplicáveis.",
+        trailer: "4x6a6igB1AQ?si=UMV66lsfMbwy7fkC",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "1h 30 min",
-        genero: "Suspense",
-        classificacao: "+16",
+        duracao: "2h 02 min",
+        genero: "Terror sobrenatural e psicológico",
+        classificacao: "+14",
     },
 
     {
