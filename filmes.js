@@ -30,7 +30,7 @@ export const filmes = [
     },
 
     {
-        id: "Ong Bak",
+        id: "It: a coisa",
         titulo: "Ong Bak",
         imagem: "Imagens/imagem.jpg",
         descricao: "Ong-Bak: Guerreiro Sagrado, acompanha Ting (Tony Jaa), um jovem guerreiro de uma pacata vila tailandesa.",
