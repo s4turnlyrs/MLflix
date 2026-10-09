@@ -82,7 +82,7 @@ export const filmes = [
 
         duracao: "1h 52 min",
         genero: "Terror sobrenatural e suspense.",
-        classificacao: "PREENCHER",
+        classificacao: "+14",
     },
     
 ];
