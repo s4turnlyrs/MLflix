@@ -75,7 +75,7 @@ export const filmes = [
         id: "Invocação do Mal",
         titulo: "Invocação do Mal",
         imagem: "Imagens/invocacaodomal.jpg",
-        descricao: "Após danos colaterais em missões dos Vingadores, a ONU propõe o Tratado de Sokovia, um acordo para regulamentar e controlar a equipe.",
+        descricao: "Um casal de investigadores paranormais é chamado para ajudar uma família que enfrenta acontecimentos assustadores em sua casa.",
         trailer: "ID_YOUTUBE",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
