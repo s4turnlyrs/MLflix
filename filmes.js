@@ -54,7 +54,7 @@ export const filmes = [
 
         duracao: "1h 51 min",
         genero: "Terror, suspense e slasher.",
-        classificacao: "+14",
+        classificacao: "+16",
     },
 
     {
