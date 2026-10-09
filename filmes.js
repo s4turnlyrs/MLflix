@@ -61,7 +61,7 @@ export const filmes = [
         id: "O Iluminado",
         titulo: "O Iluminado",
         imagem: "Imagens/oiluminado.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        descricao: "Um escritor aceita trabalhar em um hotel isolado durante o inverno, mas acontecimentos estranhos começam a afetar sua família.",
         trailer: "ID_YOUTUBE",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
