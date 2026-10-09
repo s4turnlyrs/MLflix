@@ -68,7 +68,7 @@ export const filmes = [
 
         duracao: "2h 26 min",
         genero: "Terror psicológico e suspense.",
-        classificacao: "PREENCHER",
+        classificacao: "+16",
     },
 
     {
