@@ -59,7 +59,7 @@ export const filmes = [
 
     {
         id: "O Iluminado",
-        titulo: "Homem Aranha",
+        titulo: "O Iluminado",
         imagem: "Imagens/imagem.jpg",
         descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
         trailer: "ID_YOUTUBE",
