@@ -53,7 +53,7 @@ export const filmes = [
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "1h 51 min",
-        genero: "Luta/Comédia",
+        genero: "Terror, suspense e slasher.",
         classificacao: "+14",
     },
 
