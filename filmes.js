@@ -47,7 +47,7 @@ export const filmes = [
         id: "Pânico",
         titulo: "Pânico",
         imagem: "Imagens/panico.jpg",
-        descricao: "A história acompanha Sing, um malandro trapalhão que tenta entrar para a temida Gangue do Machado.",
+        descricao: "Uma estudante e seus amigos passam a ser perseguidos por um assassino mascarado que aterroriza a cidade.",
         trailer: "ID_YOUTUBE",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
