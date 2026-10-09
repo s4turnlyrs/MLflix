@@ -86,7 +86,7 @@ export const filmes = [
     },
 
     {
-        id: "Invocação do Mal",
+        id: "Silent Hill",
         titulo: "Invocação do Mal",
         imagem: "Imagens/invocacaodomal.jpg",
         descricao: "Um casal de investigadores paranormais é chamado para ajudar uma família que enfrenta acontecimentos assustadores em sua casa.",
