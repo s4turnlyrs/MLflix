@@ -76,7 +76,7 @@ export const filmes = [
         titulo: "Invocação do Mal",
         imagem: "Imagens/invocacaodomal.jpg",
         descricao: "Um casal de investigadores paranormais é chamado para ajudar uma família que enfrenta acontecimentos assustadores em sua casa.",
-        trailer: "Alteração na descrição de um filme.",
+        trailer: "GQrrXceHn2E?si=K7kD_M1CnqmWT-X_",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
