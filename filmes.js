@@ -44,7 +44,7 @@ export const filmes = [
     },
 
     {
-        id: "Kung-Fusão",
+        id: "Pânico",
         titulo: "Kung-Fusão",
         imagem: "Imagens/imagem.jpg",
         descricao: "A história acompanha Sing, um malandro trapalhão que tenta entrar para a temida Gangue do Machado.",
