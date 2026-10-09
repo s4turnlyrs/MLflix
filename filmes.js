@@ -34,7 +34,7 @@ export const filmes = [
         titulo: "It: a coisa",
         imagem: "Imagens/itacoisa.jpg",
         descricao: "Um grupo de amigos enfrenta seus maiores medos ao investigar o desaparecimento de crianças em sua cidade, ligado a uma criatura que assume a forma de um palhaço.",
-        trailer: "ID_YOUTUBE",
+        trailer: "dD264ZjfKlk?si=S8RyLiKLXE_-ijVa",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
