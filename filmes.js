@@ -88,7 +88,7 @@ export const filmes = [
     {
         id: "Silent Hill",
         titulo: "Silent Hill",
-        imagem: "Imagens/silenthill.jpg",
+        imagem: "Imagens/terroremsilenthill.jpg",
         descricao: "Uma mãe chega a uma cidade misteriosa em busca da filha, encontrando lugares abandonados e fenômenos sobrenaturais.",
         trailer: "GQrrXceHn2E?si=K7kD_M1CnqmWT-X_",
         
