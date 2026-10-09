@@ -81,7 +81,7 @@ export const filmes = [
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "1h 52 min",
-        genero: "PREENCHER",
+        genero: "Terror sobrenatural e suspense.",
         classificacao: "PREENCHER",
     },
     
