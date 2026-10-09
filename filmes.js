@@ -62,7 +62,7 @@ export const filmes = [
         titulo: "O Iluminado",
         imagem: "Imagens/oiluminado.jpg",
         descricao: "Um escritor aceita trabalhar em um hotel isolado durante o inverno, mas acontecimentos estranhos começam a afetar sua família.",
-        trailer: "ID_YOUTUBE",
+        trailer: "dSQ3yN5yJ0g?si=iOzrRYHYP-q3eK2B",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
