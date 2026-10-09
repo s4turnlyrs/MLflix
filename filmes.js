@@ -48,7 +48,7 @@ export const filmes = [
         titulo: "Pânico",
         imagem: "Imagens/panico.jpg",
         descricao: "Uma estudante e seus amigos passam a ser perseguidos por um assassino mascarado que aterroriza a cidade.",
-        trailer: "ID_YOUTUBE",
+        trailer: "Xlut875doho?si=50GqeAnhh6Ddh9xX",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
