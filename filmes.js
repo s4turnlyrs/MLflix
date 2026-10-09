@@ -26,7 +26,7 @@ export const filmes = [
 
         duracao: "2h 02 min",
         genero: "Terror sobrenatural e psicológico",
-        classificacao: "+14",
+        classificacao: "+14 anos",
     },
 
     {
@@ -40,7 +40,7 @@ export const filmes = [
 
         duracao: "2h 15 min",
         genero: "Terror, suspense e sobrenatural.",
-        classificacao: "+16",
+        classificacao: "+16 anos",
     },
 
     {
@@ -54,7 +54,7 @@ export const filmes = [
 
         duracao: "1h 51 min",
         genero: "Terror, suspense e slasher.",
-        classificacao: "+16",
+        classificacao: "+16 anos",
     },
 
     {
@@ -68,7 +68,7 @@ export const filmes = [
 
         duracao: "2h 26 min",
         genero: "Terror psicológico e suspense.",
-        classificacao: "+16",
+        classificacao: "+16 anos",
     },
 
     {
@@ -82,7 +82,7 @@ export const filmes = [
 
         duracao: "1h 52 min",
         genero: "Terror sobrenatural e suspense.",
-        classificacao: "+14",
+        classificacao: "+14 anos",
     },
     
 ];
