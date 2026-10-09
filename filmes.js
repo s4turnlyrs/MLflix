@@ -89,7 +89,7 @@ export const filmes = [
         id: "Silent Hill",
         titulo: "Silent Hill",
         imagem: "Imagens/silenthill.jpg",
-        descricao: "Um casal de investigadores paranormais é chamado para ajudar uma família que enfrenta acontecimentos assustadores em sua casa.",
+        descricao: "Uma mãe chega a uma cidade misteriosa em busca da filha, encontrando lugares abandonados e fenômenos sobrenaturais.",
         trailer: "GQrrXceHn2E?si=K7kD_M1CnqmWT-X_",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
