@@ -52,7 +52,7 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "1h 40 min",
+        duracao: "1h 51 min",
         genero: "Luta/Comédia",
         classificacao: "+14",
     },
