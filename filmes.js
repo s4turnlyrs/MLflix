@@ -39,8 +39,8 @@ export const filmes = [
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "2h 15 min",
-        genero: "Luta",
-        classificacao: "+14",
+        genero: "Terror, suspense e sobrenatural.",
+        classificacao: "+16",
     },
 
     {
