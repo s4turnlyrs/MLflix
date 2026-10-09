@@ -84,6 +84,20 @@ export const filmes = [
         genero: "Terror sobrenatural e suspense.",
         classificacao: "+14 anos",
     },
+
+    {
+        id: "Invocação do Mal",
+        titulo: "Invocação do Mal",
+        imagem: "Imagens/invocacaodomal.jpg",
+        descricao: "Um casal de investigadores paranormais é chamado para ajudar uma família que enfrenta acontecimentos assustadores em sua casa.",
+        trailer: "GQrrXceHn2E?si=K7kD_M1CnqmWT-X_",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "1h 52 min",
+        genero: "Terror sobrenatural e suspense.",
+        classificacao: "+14 anos",
+    },
     
 ];
 
