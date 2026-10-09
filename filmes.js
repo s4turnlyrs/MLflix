@@ -33,7 +33,7 @@ export const filmes = [
         id: "It: a coisa",
         titulo: "It: a coisa",
         imagem: "Imagens/itacoisa.jpg",
-        descricao: "Ong-Bak: Guerreiro Sagrado, acompanha Ting (Tony Jaa), um jovem guerreiro de uma pacata vila tailandesa.",
+        descricao: "Um grupo de amigos enfrenta seus maiores medos ao investigar o desaparecimento de crianças em sua cidade, ligado a uma criatura que assume a forma de um palhaço.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
