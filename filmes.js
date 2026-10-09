@@ -66,7 +66,7 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
+        duracao: "2h 26 min",
         genero: "PREENCHER",
         classificacao: "PREENCHER",
     },
