@@ -98,6 +98,20 @@ export const filmes = [
         genero: "Terror sobrenatural e suspense.",
         classificacao: "+14 anos",
     },
+
+    {
+        id: "Terror em Silent Hill",
+        titulo: "Terror em Silent Hill",
+        imagem: "Imagens/terroremsilenthill.jpg",
+        descricao: "Uma mãe chega a uma cidade misteriosa em busca da filha, encontrando lugares abandonados e fenômenos sobrenaturais.",
+        trailer: "Hi9-XLy9jmA?si=CS4PAMC5NYkiqCPQ",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 05 min",
+        genero: "Terror sobrenatural e suspense.",
+        classificacao: "+14 anos",
+    },
     
 ];
 
