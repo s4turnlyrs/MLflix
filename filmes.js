@@ -171,7 +171,7 @@ export const series = [
         classificacao: "+16 anos",
     },
     {
-        id: "Breaking Bad",
+        id: "Bom dia Vêronica",
         titulo: "Breaking Bad",
         imagem: "Imagens/imagem.jpg",
         descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
