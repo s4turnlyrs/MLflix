@@ -126,6 +126,20 @@ export const filmes = [
         genero: "Terror e slasher.",
         classificacao: "+18 anos",
     },
+
+    {
+        id: "O Massacre da Serra Elétrica",
+        titulo: "O Massacre da Serra Elétrica",
+        imagem: "Imagens/omassacre.jpg",
+        descricao: "Um grupo de amigos viaja pelo interior do Texas e acaba envolvido em uma situação aterrorizante ao encontrar uma família perigosa.",
+        trailer: "ok7VU_1uL90?si=Dd4_-f6326xvUAKW",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "1h 23 min",
+        genero: "Terror e slasher.",
+        classificacao: "+18 anos",
+    },
     
 ];
 
