@@ -101,7 +101,7 @@ export const filmes = [
 
     {
         id: "Hannibal",
-        titulo: "Terror em Silent Hill",
+        titulo: "Hannibal",
         imagem: "Imagens/terroremsilenthill.jpg",
         descricao: "Uma mãe chega a uma cidade misteriosa em busca da filha, encontrando lugares abandonados e fenômenos sobrenaturais.",
         trailer: "Hi9-XLy9jmA?si=CS4PAMC5NYkiqCPQ",
