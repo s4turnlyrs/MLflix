@@ -175,7 +175,7 @@ export const series = [
         titulo: "Bom dia Vêronica",
         imagem: "Imagens/bomdiaveronica.jpg",
         descricao: "Bom Dia, Verônica é um suspense policial da Netflix sobre uma escrivã da polícia que inicia uma investigação secreta após receber um pedido de socorro, acabando por desmascarar uma monstruosa rede de corrupção, abusos e feminicídios protegida por pessoas poderosas.",
-        trailer: "ID_YOUTUBE",
+        trailer: "OmCnSsPLREQ?si=5f57L0W1j23-pgq4",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
