@@ -185,7 +185,7 @@ export const series = [
     },
     {
         id: "A Maldição da Residência Hill",
-        titulo: "Peaky Blinders",
+        titulo: "A Maldição da Residência Hill",
         imagem: "Imagens/imagem.jpg",
         descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial.",
         trailer: "ID_YOUTUBE",
