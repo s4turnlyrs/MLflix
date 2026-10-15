@@ -130,7 +130,7 @@ export const filmes = [
     {
         id: "Sobrenatural",
         titulo: "Sobrenatural",
-        imagem: "Imagens/omassacre.jpg",
+        imagem: "Imagens/sobrenatural.jpg",
         descricao: "Um grupo de amigos viaja pelo interior do Texas e acaba envolvido em uma situação aterrorizante ao encontrar uma família perigosa.",
         trailer: "ok7VU_1uL90?si=Dd4_-f6326xvUAKW",
         
