@@ -149,7 +149,7 @@ export const series = [
         titulo: "Marianne",
         imagem: "Imagens/marianne.jpg",
         descricao: "Uma escritora de terror descobre que a bruxa de suas histórias parece existir de verdade e está ligada ao seu passado.",
-        trailer: "ID_YOUTUBE",
+        trailer: "0Gx8ZZZAiFo?si=Z1CkwGJ0FWzKpWba",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
