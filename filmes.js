@@ -188,7 +188,7 @@ export const series = [
         titulo: "A Maldição da Residência Hill",
         imagem: "Imagens/amaldicaohill.jpg",
         descricao: "Uma família enfrenta as consequências de experiências vividas em uma casa assombrada.",
-        trailer: "ID_YOUTUBE",
+        trailer: "OJCbEude3_E?si=PsFg8q2ueaRITE_b",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
