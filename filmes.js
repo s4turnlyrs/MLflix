@@ -192,7 +192,7 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
+        duracao: "9h 32 min",
         genero: "PREENCHER",
         classificacao: "PREENCHER",
     },
