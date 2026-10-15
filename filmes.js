@@ -205,8 +205,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
+        duracao: "120h 00 min",
+        genero: "Terror, antologia",
         classificacao: "PREENCHER",
     },
     {
