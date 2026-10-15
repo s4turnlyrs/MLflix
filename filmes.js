@@ -198,7 +198,7 @@ export const series = [
     },
     {
         id: "American Horror Story",
-        titulo: "Round 6",
+        titulo: "American Horror Story",
         imagem: "Imagens/imagem.jpg",
         descricao: "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Onde um prêmio milionário aguarda.",
         trailer: "ID_YOUTUBE",
