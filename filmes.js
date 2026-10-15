@@ -155,7 +155,7 @@ export const series = [
 
         duracao: "6h 00 min",
         genero: "Terror sobrenatural e psicológico",
-        classificacao: "PREENCHER",
+        classificacao: "+16 anos",
     },
     {
         id: "Dark",
