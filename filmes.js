@@ -116,7 +116,7 @@ export const filmes = [
     {
         id: "O Massacre da Serra Elétrica",
         titulo: "O Massacre da Serra Elétrica",
-        imagem: "Imagens/Hannibal.jpg",
+        imagem: "Imagens/omassacre.jpg",
         descricao: "Anos após os acontecimentos de O Silêncio dos Inocentes, o Dr. Hannibal Lecter vive escondido na Europa. Enquanto isso, a agente do FBI Clarice Starling volta a se envolver no caso quando Hannibal reaparece, dando início a uma investigação cheia de mistério, tensão e reviravoltas.",
         trailer: "Lr3OavheNu0?si=DlC_r7AZCLKFyGwQ",
         
