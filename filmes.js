@@ -160,7 +160,7 @@ export const series = [
     {
         id: "Dark",
         titulo: "Dark",
-        imagem: "Imagens/imagem.jpg",
+        imagem: "Imagens/dark.jpg",
         descricao: "Dark é uma série focada em viagens no tempo e multiversos.",
         trailer: "ID_YOUTUBE",
         
