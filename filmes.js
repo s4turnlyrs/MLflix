@@ -200,7 +200,7 @@ export const series = [
         id: "American Horror Story",
         titulo: "American Horror Story",
         imagem: "Imagens/american.jpg",
-        descricao: "American Horror Story é a história de um universo compartilhado onde os Estados Unidos são o epicentro de uma guerra eterna entre o Bem e o Mal.",
+        descricao: "Cada temporada apresenta uma história diferente envolvendo situações sobrenaturais ou perturbadoras.",
         trailer: "ABhpmkO0cd0?si=HQgMadUh-FtmAhHs",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
