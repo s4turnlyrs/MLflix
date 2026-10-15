@@ -145,7 +145,7 @@ export const filmes = [
 
 export const series = [
     {
-        id: "Stranger Things",
+        id: "Marianne",
         titulo: "Stranger Things",
         imagem: "Imagens/imagem.jpg",
         descricao: "Um grupo de crianças enfrenta forças sobrenaturais.",
