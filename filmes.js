@@ -138,7 +138,7 @@ export const filmes = [
 
         duracao: "1h 43 min",
         genero: "Terror, suspense e mistério.",
-        classificacao: "+18 anos",
+        classificacao: "+14 anos",
     },
     
 ];
