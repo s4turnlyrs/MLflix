@@ -110,7 +110,7 @@ export const filmes = [
 
         duracao: "2h 11 min",
         genero: "Suspense psicológico, terror psicológico, policial e thriller.",
-        classificacao: "+14 anos",
+        classificacao: "+18 anos",
     },
     
 ];
