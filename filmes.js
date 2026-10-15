@@ -147,7 +147,7 @@ export const series = [
     {
         id: "Marianne",
         titulo: "Marianne",
-        imagem: "Imagens/imagem.jpg",
+        imagem: "Imagens/marianne.jpg",
         descricao: "Um grupo de crianças enfrenta forças sobrenaturais.",
         trailer: "ID_YOUTUBE",
         
