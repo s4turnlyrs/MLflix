@@ -184,7 +184,7 @@ export const series = [
         classificacao: "+18 anos",
     },
     {
-        id: "Peaky Blinders",
+        id: "A Maldição da Residência Hill",
         titulo: "Peaky Blinders",
         imagem: "Imagens/imagem.jpg",
         descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial.",
