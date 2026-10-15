@@ -162,7 +162,7 @@ export const series = [
         titulo: "Dark",
         imagem: "Imagens/dark.jpg",
         descricao: "O desaparecimento de crianças em uma cidade alemã revela segredos familiares e viagens no tempo.",
-        trailer: "ID_YOUTUBE",
+        trailer: "JCCssUOtn2E?si=QNtT1m_pJ4dAOgD6",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
