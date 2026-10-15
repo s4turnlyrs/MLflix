@@ -136,7 +136,7 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "1h 23 min",
+        duracao: "1h 43 min",
         genero: "Terror e slasher.",
         classificacao: "+18 anos",
     },
