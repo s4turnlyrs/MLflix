@@ -161,7 +161,7 @@ export const series = [
         id: "Dark",
         titulo: "Dark",
         imagem: "Imagens/dark.jpg",
-        descricao: "Dark é uma série focada em viagens no tempo e multiversos.",
+        descricao: "O desaparecimento de crianças em uma cidade alemã revela segredos familiares e viagens no tempo.",
         trailer: "ID_YOUTUBE",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
