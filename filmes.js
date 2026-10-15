@@ -173,7 +173,7 @@ export const series = [
     {
         id: "Bom dia Vêronica",
         titulo: "Bom dia Vêronica",
-        imagem: "Imagens/imagem.jpg",
+        imagem: "Imagens/bomdiaveronica.jpg",
         descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
         trailer: "ID_YOUTUBE",
         
