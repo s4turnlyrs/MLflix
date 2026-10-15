@@ -207,7 +207,7 @@ export const series = [
 
         duracao: "120h 00 min",
         genero: "Terror, antologia",
-        classificacao: "PREENCHER",
+        classificacao: "+18 anos",
     },
     {
         id: "Avatar A lenda de Aang",
