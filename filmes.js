@@ -118,7 +118,7 @@ export const filmes = [
         titulo: "O Massacre da Serra Elétrica",
         imagem: "Imagens/omassacre.jpg",
         descricao: "Um grupo de amigos viaja pelo interior do Texas e acaba envolvido em uma situação aterrorizante ao encontrar uma família perigosa.",
-        trailer: "Lr3OavheNu0?si=DlC_r7AZCLKFyGwQ",
+        trailer: "ok7VU_1uL90?si=Dd4_-f6326xvUAKW",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
