@@ -194,7 +194,7 @@ export const series = [
 
         duracao: "9h 32 min",
         genero: "Terror sobrenatural, drama",
-        classificacao: "PREENCHER",
+        classificacao: "+16 anos",
     },
     {
         id: "Round 6",
