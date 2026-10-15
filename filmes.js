@@ -102,7 +102,7 @@ export const filmes = [
     {
         id: "Hannibal",
         titulo: "Hannibal",
-        imagem: "Imagens/hannibal.jpg",
+        imagem: "Imagens/Hannibal.jpg",
         descricao: "Uma mãe chega a uma cidade misteriosa em busca da filha, encontrando lugares abandonados e fenômenos sobrenaturais.",
         trailer: "Hi9-XLy9jmA?si=CS4PAMC5NYkiqCPQ",
         
