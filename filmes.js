@@ -167,7 +167,7 @@ export const series = [
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "22h 00 min",
-        genero: "PREENCHER",
+        genero: "ficção científica, suspense, thriller e drama.",
         classificacao: "PREENCHER",
     },
     {
