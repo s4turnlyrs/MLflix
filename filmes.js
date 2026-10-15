@@ -128,7 +128,7 @@ export const filmes = [
     },
 
     {
-        id: "O Massacre da Serra Elétrica",
+        id: "Sobrenatural",
         titulo: "O Massacre da Serra Elétrica",
         imagem: "Imagens/omassacre.jpg",
         descricao: "Um grupo de amigos viaja pelo interior do Texas e acaba envolvido em uma situação aterrorizante ao encontrar uma família perigosa.",
