@@ -132,7 +132,7 @@ export const filmes = [
         titulo: "Sobrenatural",
         imagem: "Imagens/sobrenatural.jpg",
         descricao: "Em Sobrenatural (2010), um garoto entra em um coma inexplicável após sofrer um acidente. Quando fenômenos paranormais assustadores começam a perseguir a família, eles descobrem que a alma do menino está presa em uma dimensão espiritual sombria e que demônios estão tentando possuir o corpo dele.",
-        trailer: "ok7VU_1uL90?si=Dd4_-f6326xvUAKW",
+        trailer: "yHfaQy2vAG0?si=ynMtBoamVh5pojlO",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
