@@ -181,7 +181,7 @@ export const series = [
 
         duracao: "13h 00 min",
         genero: "suspense, thriller, drama e policial.",
-        classificacao: "PREENCHER",
+        classificacao: "+18 anos",
     },
     {
         id: "Peaky Blinders",
