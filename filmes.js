@@ -109,7 +109,7 @@ export const filmes = [
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "2h 11 min",
-        genero: "Terror sobrenatural e suspense.",
+        genero: "Suspense psicológico, terror psicológico, policial e thriller.",
         classificacao: "+14 anos",
     },
     
