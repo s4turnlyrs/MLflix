@@ -168,7 +168,7 @@ export const series = [
 
         duracao: "22h 00 min",
         genero: "ficção científica, suspense, thriller e drama.",
-        classificacao: "PREENCHER",
+        classificacao: "+16 anos",
     },
     {
         id: "Breaking Bad",
