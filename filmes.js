@@ -174,7 +174,7 @@ export const series = [
         id: "Bom dia Vêronica",
         titulo: "Bom dia Vêronica",
         imagem: "Imagens/bomdiaveronica.jpg",
-        descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
+        descricao: "Bom Dia, Verônica é um suspense policial da Netflix sobre uma escrivã da polícia que inicia uma investigação secreta após receber um pedido de socorro, acabando por desmascarar uma monstruosa rede de corrupção, abusos e feminicídios protegida por pessoas poderosas.",
         trailer: "ID_YOUTUBE",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
