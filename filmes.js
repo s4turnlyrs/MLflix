@@ -239,6 +239,6 @@ export const series = [
 
         duracao: "5h 51 min",
         genero: "Terror sobrenatural, suspense e drama.",
-        classificacao: "+10 anos",
+        classificacao: "+18 anos",
     }
 ];
