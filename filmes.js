@@ -260,7 +260,7 @@ export const series = [
         id: "Origem",
         titulo: "Origem",
         imagem: "Imagens/origem.jpg",
-        descricao: "Os irmãos Sam e Dean Winchester percorrem os Estados Unidos investigando casos sobrenaturais e enfrentando fantasmas, demônios, monstros e outras entidades. Enquanto seguem os passos do pai, eles descobrem segredos obscuros e enfrentam ameaças cada vez maiores.",
+        descricao: "Uma família acaba presa em uma cidade misteriosa da qual ninguém consegue escapar. Os moradores precisam sobreviver a criaturas que aparecem durante a noite, enquanto tentam descobrir os segredos do lugar e encontrar uma maneira de voltar para casa.",
         trailer: "31A0DqX6jHI?si=A01DLViywkoYSq_h",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
