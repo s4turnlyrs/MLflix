@@ -255,4 +255,18 @@ export const series = [
         genero: "Terror, fantasia sombria, drama e suspense.",
         classificacao: "+14 anos",
     },
+
+    {
+        id: "Sobrenatural",
+        titulo: "Sobrenatural",
+        imagem: "Imagens/sobrenaturalserie.jpg",
+        descricao: "Os irmãos Sam e Dean Winchester percorrem os Estados Unidos investigando casos sobrenaturais e enfrentando fantasmas, demônios, monstros e outras entidades. Enquanto seguem os passos do pai, eles descobrem segredos obscuros e enfrentam ameaças cada vez maiores.",
+        trailer: "31A0DqX6jHI?si=A01DLViywkoYSq_h",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "229h 44 min",
+        genero: "Terror, fantasia sombria, drama e suspense.",
+        classificacao: "+14 anos",
+    },
 ];
