@@ -258,7 +258,7 @@ export const series = [
 
     {
         id: "Origem",
-        titulo: "Sobrenatural",
+        titulo: "Origem",
         imagem: "Imagens/sobrenaturalserie.jpg",
         descricao: "Os irmãos Sam e Dean Winchester percorrem os Estados Unidos investigando casos sobrenaturais e enfrentando fantasmas, demônios, monstros e outras entidades. Enquanto seguem os passos do pai, eles descobrem segredos obscuros e enfrentam ameaças cada vez maiores.",
         trailer: "31A0DqX6jHI?si=A01DLViywkoYSq_h",
