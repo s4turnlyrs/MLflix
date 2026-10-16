@@ -252,7 +252,7 @@ export const series = [
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "229h 44 min",
-        genero: "Terror, suspense, fantasia e mistério.",
+        genero: "Terror, fantasia sombria, drama e suspense.",
         classificacao: "+10 anos",
     },
 ];
