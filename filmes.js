@@ -157,6 +157,7 @@ export const series = [
         genero: "Terror sobrenatural e psicológico",
         classificacao: "+16 anos",
     },
+
     {
         id: "Dark",
         titulo: "Dark",
@@ -170,6 +171,7 @@ export const series = [
         genero: "ficção científica, suspense, thriller e drama.",
         classificacao: "+16 anos",
     },
+
     {
         id: "Bom dia Vêronica",
         titulo: "Bom dia Vêronica",
@@ -183,6 +185,7 @@ export const series = [
         genero: "suspense, thriller, drama e policial.",
         classificacao: "+18 anos",
     },
+
     {
         id: "A Maldição da Residência Hill",
         titulo: "A Maldição da Residência Hill",
@@ -196,6 +199,7 @@ export const series = [
         genero: "Terror sobrenatural, drama",
         classificacao: "+16 anos",
     },
+
     {
         id: "American Horror Story",
         titulo: "American Horror Story",
@@ -209,6 +213,21 @@ export const series = [
         genero: "Terror, antologia",
         classificacao: "+18 anos",
     },
+
+    {
+        id: "Creeped Out",
+        titulo: "Creeped Out",
+        imagem: "Imagens/creeped out.jpg",
+        descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
+        trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "9h 24 min",
+        genero: "Terror, suspense, fantasia e mistério.",
+        classificacao: "+10 anos",
+    }
+
     {
         id: "Creeped Out",
         titulo: "Creeped Out",
