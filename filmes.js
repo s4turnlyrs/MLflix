@@ -230,7 +230,7 @@ export const series = [
 
     {
         id: "IT: Welcome to Derry",
-        titulo: "Creeped Out",
+        titulo: "IT: Welcome to Derry",
         imagem: "Imagens/creeped out.jpg",
         descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
         trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
