@@ -220,6 +220,6 @@ export const series = [
 
         duracao: "9h 24 min",
         genero: "Terror, suspense, fantasia e mistério.",
-        classificacao: "PREENCHER",
+        classificacao: "+10 anos",
     }
 ];
