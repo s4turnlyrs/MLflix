@@ -213,7 +213,7 @@ export const series = [
         id: "Creeped Out",
         titulo: "Creeped Out",
         imagem: "Imagens/creeped out.jpg",
-        descricao: "Avatar: A Lenda de Aang acompanha Aang, um menino de 12 anos que acorda após cem anos congelado em um iceberg.",
+        descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
         trailer: "ID_YOUTUBE",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
