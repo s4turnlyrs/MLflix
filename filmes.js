@@ -253,6 +253,6 @@ export const series = [
 
         duracao: "229h 44 min",
         genero: "Terror, fantasia sombria, drama e suspense.",
-        classificacao: "+10 anos",
+        classificacao: "+14 anos",
     },
 ];
