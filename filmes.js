@@ -269,4 +269,18 @@ export const series = [
         genero: "Terror, mistério, suspense e fantasia.",
         classificacao: "+16 anos",
     },
+
+    {
+        id: "Origem",
+        titulo: "Origem",
+        imagem: "Imagens/origem.jpg",
+        descricao: "Uma família acaba presa em uma cidade misteriosa da qual ninguém consegue escapar. Os moradores precisam sobreviver a criaturas que aparecem durante a noite, enquanto tentam descobrir os segredos do lugar e encontrar uma maneira de voltar para casa.",
+        trailer: "00S-RH-6k9M?si=TQh-iwnzEyKRTALh",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "50h 00 min",
+        genero: "Terror, mistério, suspense e fantasia.",
+        classificacao: "+16 anos",
+    },
 ];
