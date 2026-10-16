@@ -245,7 +245,7 @@ export const series = [
     {
         id: "Sobrenatural",
         titulo: "SObrenatural",
-        imagem: "Imagens/creeped out.jpg",
+        imagem: "Imagens/sobrenaturalserie.jpg",
         descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
         trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
         
