@@ -232,7 +232,7 @@ export const series = [
         id: "IT: Welcome to Derry",
         titulo: "IT: Welcome to Derry",
         imagem: "Imagens/welcometoderry.jpg",
-        descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
+        descricao: "Ambientada em 1962, na cidade de Derry, no Maine, a série acompanha o desaparecimento de crianças e uma sequência de acontecimentos aterrorizantes. Enquanto moradores tentam descobrir o que está acontecendo, uma força maligna começa a revelar sua presença, ligada à origem de Pennywise, o palhaço assustador do universo de IT.",
         trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
