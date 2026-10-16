@@ -240,5 +240,19 @@ export const series = [
         duracao: "5h 51 min",
         genero: "Terror sobrenatural, suspense e drama.",
         classificacao: "+18 anos",
-    }
+    },
+
+    {
+        id: "Creeped Out",
+        titulo: "Creeped Out",
+        imagem: "Imagens/creeped out.jpg",
+        descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
+        trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "9h 24 min",
+        genero: "Terror, suspense, fantasia e mistério.",
+        classificacao: "+10 anos",
+    },
 ];
