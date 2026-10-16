@@ -246,7 +246,7 @@ export const series = [
         id: "Sobrenatural",
         titulo: "SObrenatural",
         imagem: "Imagens/sobrenaturalserie.jpg",
-        descricao: "Uma figura misteriosa e mascarada, conhecida como O Curioso, reúne histórias estranhas envolvendo acontecimentos sobrenaturais, criaturas assustadoras, magia obscura e tecnologias perturbadoras. Cada episódio apresenta uma história diferente, com mistérios e reviravoltas inesperadas.",
+        descricao: "Os irmãos Sam e Dean Winchester percorrem os Estados Unidos investigando casos sobrenaturais e enfrentando fantasmas, demônios, monstros e outras entidades. Enquanto seguem os passos do pai, eles descobrem segredos obscuros e enfrentam ameaças cada vez maiores.",
         trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
