@@ -233,7 +233,7 @@ export const series = [
         titulo: "IT: Welcome to Derry",
         imagem: "Imagens/welcometoderry.jpg",
         descricao: "Ambientada em 1962, na cidade de Derry, no Maine, a série acompanha o desaparecimento de crianças e uma sequência de acontecimentos aterrorizantes. Enquanto moradores tentam descobrir o que está acontecendo, uma força maligna começa a revelar sua presença, ligada à origem de Pennywise, o palhaço assustador do universo de IT.",
-        trailer: "xU1ObyC8yJ4?si=Aa1fi9ABGSQlDynm",
+        trailer: "oKa6u7LT0qE?si=ieDbXJCUlBIbL3j7",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
