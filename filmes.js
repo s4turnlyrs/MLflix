@@ -211,7 +211,7 @@ export const series = [
     },
     {
         id: "Creeped Out",
-        titulo: "Avatar A lenda de Aang",
+        titulo: "Creeped Out",
         imagem: "Imagens/imagem.jpg",
         descricao: "Avatar: A Lenda de Aang acompanha Aang, um menino de 12 anos que acorda após cem anos congelado em um iceberg.",
         trailer: "ID_YOUTUBE",
