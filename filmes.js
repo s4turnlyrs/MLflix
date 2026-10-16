@@ -267,6 +267,6 @@ export const series = [
 
         duracao: "50h 00 min",
         genero: "Terror, mistério, suspense e fantasia.",
-        classificacao: "+14 anos",
+        classificacao: "+16 anos",
     },
 ];
