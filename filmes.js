@@ -275,7 +275,7 @@ export const series = [
         titulo: "Missa da Meia-Noite",
         imagem: "Imagens/missadameianoite.jpg",
         descricao: "A chegada de um padre carismático a uma pequena ilha isolada transforma a vida de uma comunidade marcada por dificuldades e pela falta de esperança. Depois de uma série de acontecimentos inexplicáveis, os moradores começam a testemunhar supostos milagres. Porém, por trás do fervor religioso, escondem-se mistérios assustadores que ameaçam toda a população.",
-        trailer: "00S-RH-6k9M?si=TQh-iwnzEyKRTALh",
+        trailer: "bP3xWgNcLfY?si=tFvGEek4_HV0RUA9",
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
