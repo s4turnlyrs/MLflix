@@ -29,7 +29,7 @@ body{
 }
 
 .logo{
-    color:#e50914;
+    color:#9f23d9;
     font-size:30px;
     font-weight:bold;
     letter-spacing:2px;
@@ -76,7 +76,7 @@ body{
 
 /* BOTÃO */
 .btnAssistir{
-    background:#e50914;
+    background:#9f23d9;
     color:white;
     border:none;
     padding:14px 28px;
